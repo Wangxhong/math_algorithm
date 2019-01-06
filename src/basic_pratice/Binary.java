@@ -54,8 +54,10 @@ public class Binary
 
 	}
 
+	
 	public static void main(String[] args)
 	{
+		
 		// String binary = ConvertIntToBinary(-5);
 		// System.out.println(binary);
 		method_2(56);
