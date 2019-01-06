@@ -29,7 +29,7 @@ public class Binary
 		return builder.toString();
 	}
 
-	public static String method_1(int num)
+	public static String method_(int num)
 	{
 		String str = "";
 		for (int i = num; i > 0; i = i / 2)
