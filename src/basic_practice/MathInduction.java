@@ -1,4 +1,4 @@
-package basic_pratice;
+package basic_practice;
 
 /*
  * ¹éÄÉ·¨
